@@ -80,7 +80,7 @@ const tilFilmUdvalg = () => {
   color: white;
   border: none;
   border-radius: 5px;
-
+font-weight: 600;
   cursor: pointer;
   text-decoration: none;
   margin-top: 55px;
